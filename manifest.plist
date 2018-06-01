@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.miaoyigame.com/MiaoYi.ipa</string>
+					<string>http://p9knghw8e.bkt.clouddn.com/Hall.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://download.miaoyigame.com/Icon-512.png</string>
+					<string>http://p9knghw8e.bkt.clouddn.com/Icon-512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://download.miaoyigame.com/Icon-57.png</string>
+					<string>http://p9knghw8e.bkt.clouddn.com/Icon-57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
